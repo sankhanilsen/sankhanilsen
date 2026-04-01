@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm Sankhanil Sen
-
-### 🚀 Aspiring Full Stack Web Developer
+<h1 align="center">Hi 👋, I'm Sankhanil Sen</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | 💡 Tech Enthusiast | 🧠 Management & Innovation</h3>
 
 ---
 
