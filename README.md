@@ -4,18 +4,10 @@
 
 ---
 
-## ✨ Typing Animation
+## ✨ Typing ...
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Python+Developer;Interested+in+Management+%26+Innovation" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -81,7 +73,7 @@
 
 ---
 
-## ✨ Fun Animation
+## ✨ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
